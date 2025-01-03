@@ -6,7 +6,7 @@ This repository is intended for use only as part of the secondary assessment for
 # Use
 To use either import `main.ipynb` into Google Colab via the File > Open Notebook dialog using the github option or use the provided "Open in Colab" link at the top of the file when viewing the file in Github.
 
-You will have to upload the `.mseed` files stored in the "SEP" folder into session storage.
+You will have to upload the `.mseed` files stored in the "SEP" folder into session storage or upload your own.
 
 Further instructions and notes are in the Colab notebook.
 
